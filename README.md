@@ -1,12 +1,12 @@
 ## 重要之套件版本
 
-`python` &ge 3.7
+`python` &ge; 3.7
 
-`gdal` &ge 3.0.0
+`gdal` &ge; 3.0.0
 
-`numpy` &ge 1.16.4-1
+`numpy` &ge; 1.16.4-1
 
-`numba` &ge 0.49.1
+`numba` &ge; 0.49.1
 ## 稜線檔案限制
 稜線圖層之ridge必須設定其值為255, non-ridge 則不限定
 
